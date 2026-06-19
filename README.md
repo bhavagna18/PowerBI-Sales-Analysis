@@ -24,10 +24,11 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 * Data Visualization
 * Dashboard Development
 * Business Analytics
+
 ## Dashboard Screenshots
 
 ### Dashboard 1
-![Dashboard 1](screenshots/Screenshot 2026-06-18 235031.png)
+![Dashboard 1](screenshots/Screenshot%202026-06-18%20235031.png)
 
 ### Dashboard 2
-![Dashboard 2](screenshots/Screenshot 2026-06-18 235043.png)
+![Dashboard 2](screenshots/Screenshot%202026-06-18%20235043.png)
